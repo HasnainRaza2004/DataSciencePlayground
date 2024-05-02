@@ -1,5 +1,3 @@
-It seems like you have a well-structured roadmap ahead of you! Here's a step-by-step guide to get started:
-
 1. **Python Basics**:
    - Start with learning Python basics such as syntax, data types, control structures, and functions. You can find plenty of free resources online, like tutorials and courses on platforms like Codecademy, Coursera, or Udemy.
 
